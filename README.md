@@ -1,4 +1,4 @@
-# Laravel 10 偵測和操作檔案和字串的縮排
+# Laravel 11 偵測和操作檔案和字串的縮排
 
 引入 colinodell 的 indentation 套件來擴增偵測和操作檔案和字串的縮排，為了要讓每個區塊的層次結構更加顯而易見，使用縮排是很常見也必要的手段。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/O4qW14D.png)
+![](https://i.imgur.com/LPyRGQi.png)
 > 程式碼改以 `tabs` 當作縮排，而不是用 4 個空格
